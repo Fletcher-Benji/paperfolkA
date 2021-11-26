@@ -1,10 +1,3 @@
-## BookStore App - Python Flask
-
-
-<img src="https://github.com/nguymin4/aspnet-bookstore/blob/master/docs/img/ss1.jpg" height="325px" />
-<img src="https://github.com/nguymin4/aspnet-bookstore/blob/master/docs/img/ss3.jpg" height="325px" />
-<br/>
-
 ### Back-end:
 - Python Flask
 - MongoDB ([Schema](#schema))
